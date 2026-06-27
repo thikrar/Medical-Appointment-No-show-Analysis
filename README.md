@@ -97,7 +97,7 @@ medical-appointment-no-show-analysis/
 ├── README.md
 
 
-└── images/
+└── images
 
 Author
 
